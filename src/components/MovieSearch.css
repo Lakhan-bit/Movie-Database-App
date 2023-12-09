@@ -1,0 +1,19 @@
+/* src/MovieSearch.css */
+
+.movie-search-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-bottom: 20px;
+  }
+  

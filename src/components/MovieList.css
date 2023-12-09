@@ -1,0 +1,12 @@
+/* src/MovieList.css */
+
+.movie-list-container {
+    text-align: center;
+  }
+  
+  .movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
