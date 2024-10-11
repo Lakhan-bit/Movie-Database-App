@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <p>this is movie reymi moviesearch</p>
       <p>reymi</p>
+      <div>lakhan</div>
       <MovieSearch/>
       
     </div>
