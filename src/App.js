@@ -8,6 +8,7 @@ function App() {
       <p>this is movie reymi moviesearch</p>
       <p>reymi</p>
       <div>lakhan</div>
+      <div>619</div>
       <MovieSearch/>
       
     </div>
